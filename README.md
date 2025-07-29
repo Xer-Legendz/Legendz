@@ -1,4 +1,4 @@
-# Legendz
+# RESTORATION
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -53,7 +53,7 @@
 </header>
 
 <section id="hero">
-  <h2>Hello, I'm Legendz</h2>
+  <h2>Hello, I'm Restoration</h2>
   <p>Frontend Developer | Designer | Problem Solver</p>
   <button onclick="document.getElementById('projects').scrollIntoView({behavior:'smooth'});">See My Work</button>
 </section>
