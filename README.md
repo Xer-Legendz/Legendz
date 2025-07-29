@@ -1,4 +1,4 @@
-# RESTORATION
+# RESTORATION.
 <!DOCTYPE html>
 <html lang="en">
 <head>
