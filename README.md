@@ -5,7 +5,9 @@
 // 2. npm install express socket.io mongoose cors dotenv jsonwebtoken bcryptjs
 // 3. create .env as shown below
 // 4. node server.js
-//
+// MONGO_URI=mongodb://127.0.0.1:27017/legendz_fun_club
+JWT_SECRET=some_long_secure_random_string
+PORT=5000
 // Then open http://localhost:5000
 
 require('dotenv').config();
